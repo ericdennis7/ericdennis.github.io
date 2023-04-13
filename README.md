@@ -17,6 +17,6 @@ My passion for learning and all things technology has led me to achieve the Pres
   - [Link to the Study]()
     - This case study explores the impact of education on women across the globe.
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect With Me:</h2>
 
 <a href="https://www.linkedin.com/in/ericdennis7">LinkedIn</a>
