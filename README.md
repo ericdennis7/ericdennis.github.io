@@ -19,4 +19,4 @@ My passion for learning and all things technology has led me to achieve the Pres
 
 <h2> 🤳 Connect With Me:</h2>
 
-<a href="https://www.linkedin.com/in/ericdennis7">LinkedIn</a>
+LinkedIn: <a href="https://www.linkedin.com/in/ericdennis7">ericdennis7</a>
