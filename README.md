@@ -13,7 +13,7 @@ My passion for learning and all things technology has led me to achieve the Pres
   - [Church Attendance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjU5ODNiMmYtMjA5MC00ZGI0LWFjMGEtODhiNTVjMjdiY2Q3IiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9)
     - The Power BI report above contains authentic data, but the church's name has been changed to preserve its confidentiality.
   
-- <b>Case Study: The Impact of Woman's Education</b>
+- <b>Small Case Study: The Impact of Woman's Education</b>
 
   This case study explores the impact of education on women across the globe.
     - <a href="https://app.powerbi.com/view?r=eyJrIjoiOWQyOTg5ZDItOTk1OC00NmMyLTkwM2UtNTYzNWNkYTI0YzIwIiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9">Link to PowerBI Dashboard</a>
