@@ -15,9 +15,9 @@ My passion for learning and all things technology has led me to achieve the Pres
   
 - <b>Case Study: The Impact of Woman's Education</b>
 
-  - <a href="https://app.powerbi.com/view?r=eyJrIjoiOWQyOTg5ZDItOTk1OC00NmMyLTkwM2UtNTYzNWNkYTI0YzIwIiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9">Link to PowerBI Dashboard</a>
-  - <a href="https://github.com/ericdennis7/WomensEducation-FertilityRates">Link to the Full Study</a>
-    - This case study explores the impact of education on women across the globe.
+  This case study explores the impact of education on women across the globe.
+    - <a href="https://app.powerbi.com/view?r=eyJrIjoiOWQyOTg5ZDItOTk1OC00NmMyLTkwM2UtNTYzNWNkYTI0YzIwIiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9">Link to PowerBI Dashboard</a>
+    - <a href="https://github.com/ericdennis7/WomensEducation-FertilityRates">Link to the Full Study</a>
 
 <h2> 🤳 Connect With Me:</h2>
 
