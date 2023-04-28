@@ -14,6 +14,7 @@ My passion for learning and all things technology has led me to achieve the Pres
   
 - <b>The World's Happiest Countries (Data Process)</b>  
   - <a href="https://app.powerbi.com/view?r=eyJrIjoiNTcyYjY4Y2ItMDgzMS00MjAwLWEyMjYtNzhhYWIzNDdkZjE1IiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9&pageName=ReportSectionc1b182ee40bc969bbaba">Power BI Report</a>
+  - <a href="https://github.com/ericdennis7/WorldHappinessReport">Full Overview</a>
 
 - <b>Small Case Study: The Impact of Woman's Education</b>
 
