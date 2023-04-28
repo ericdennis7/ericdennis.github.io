@@ -10,8 +10,7 @@ My passion for learning and all things technology has led me to achieve the Pres
 <h2>👨‍💻 Data Anayltics Projects:</h2>
 
 - <b>Stand Alone Power BI Visuals (No Analysis)</b>
-  - [Church Attendance Report](https://app.powerbi.com/view?r=eyJrIjoiYjU5ODNiMmYtMjA5MC00ZGI0LWFjMGEtODhiNTVjMjdiY2Q3IiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9)
-    - The Power BI report above contains authentic data, but the church's name has been changed to preserve its confidentiality.
+  - [Church Attendance Report](https://app.powerbi.com/view?r=eyJrIjoiYjU5ODNiMmYtMjA5MC00ZGI0LWFjMGEtODhiNTVjMjdiY2Q3IiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9) The Power BI report above contains authentic data, but the church's name has been changed to preserve its confidentiality.
   
 - <b>The World's Happiest Countries (Data Process)</b>  
   - <a href="https://app.powerbi.com/view?r=eyJrIjoiNTcyYjY4Y2ItMDgzMS00MjAwLWEyMjYtNzhhYWIzNDdkZjE1IiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9&pageName=ReportSectionc1b182ee40bc969bbaba">Power BI Report</a>
