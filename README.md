@@ -10,13 +10,16 @@ My passion for learning and all things technology has led me to achieve the Pres
 <h2>👨‍💻 Data Anayltics Projects:</h2>
 
 - <b>Stand Alone Power BI Visuals (No Analysis)</b>
-  - [Church Attendance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjU5ODNiMmYtMjA5MC00ZGI0LWFjMGEtODhiNTVjMjdiY2Q3IiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9)
+  - [Church Attendance Report](https://app.powerbi.com/view?r=eyJrIjoiYjU5ODNiMmYtMjA5MC00ZGI0LWFjMGEtODhiNTVjMjdiY2Q3IiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9)
     - The Power BI report above contains authentic data, but the church's name has been changed to preserve its confidentiality.
   
+- <b>Data Cleaning, Manipulating, and Visualizations of the World's Happiest Countries</b>  
+  - [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNTcyYjY4Y2ItMDgzMS00MjAwLWEyMjYtNzhhYWIzNDdkZjE1IiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9&pageName=ReportSectionc1b182ee40bc969bbaba)
+
 - <b>Small Case Study: The Impact of Woman's Education</b>
 
   This case study explores the impact of education on women across the globe.
-    - <a href="https://app.powerbi.com/view?r=eyJrIjoiOWQyOTg5ZDItOTk1OC00NmMyLTkwM2UtNTYzNWNkYTI0YzIwIiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9">Link to PowerBI Dashboard</a>
+    - [Power BI Report]<a href="https://app.powerbi.com/view?r=eyJrIjoiOWQyOTg5ZDItOTk1OC00NmMyLTkwM2UtNTYzNWNkYTI0YzIwIiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9">Link to PowerBI Dashboard</a>
     - <a href="https://github.com/ericdennis7/WomensEducation-FertilityRates">Link to the Full Study</a>
 
 <h2> 🤳 Connect With Me:</h2>
